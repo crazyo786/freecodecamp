@@ -1,23 +1,23 @@
 #! /bin/bash
 
 # *********************************** #
-# 		                      		      #
+# 				      #
 # ---- This Script is Created By ---- #
-# 		                      		      #
+# 				      #
 # ----------- crazyo786 ------------- #
-# 	                      			      #
+# 				      #
 # --- https://github.com/crazyo786 -- #
-# 			                      	      #
+# 				      #
 # *********************************** #
 
 # ************************************************************************************** #
-# 								                                                          		         #
-#  				                           	  NOTE :		                          		         #
-# 		                                                                									 #
-#    	 THIS SCRIPT IS BUILD FOR THE FREECODECAMP CURRICULUM "RELATIONAL DATABASE"	       #
-#		           UNDER THE PROJECT "BUILD A WORLD CUP DATABASE" BY USER	              		 #
-#				                              @crazyo786 	                               				 #
-# 											                                                                 #
+# 										         #
+#  				       	  NOTE :				         #
+# 											 #
+#    	   THIS SCRIPT IS BUILD FOR THE FREECODECAMP CURRICULUM "RELATIONAL DATABASE"	 #
+#		UNDER THE PROJECT "BUILD A WORLD CUP DATABASE" BY USER			 #
+#					@crazyo786 	 				 #
+# 											 #
 # ************************************************************************************** #
 
 
@@ -147,3 +147,4 @@ echo -e "\n	  ***************** 		 "
 
 
 # END --- RESULT --- SECTION #
+
