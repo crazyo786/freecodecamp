@@ -1,6 +1,6 @@
 #! /bin/bash
 
-# using if loop to be able to run tests without affecting original database
+# using if loop to be able to run tests without affecting original databas
 
 if [[ $1 == "test" ]]
 then
