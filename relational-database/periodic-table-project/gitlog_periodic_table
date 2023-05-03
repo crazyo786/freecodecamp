@@ -1,0 +1,15 @@
+02549dc feat: add show result for the input
+22f4e7f feat: add get data from database based on input
+2744b33 feat: add insert new rows to database
+8600d98 feat: add column foreign key
+b9050c7 feat: add change column data type
+859f36a feat: add columns unique and not null constraints
+036aa3d feat: add change row cases
+e98cecb feat: add delete column properties table
+5cd1d21 feat: add update type id in properties table
+4fe5333 feat: add array insert and delete rows all tables
+e3368f8 feat: add rename columns
+916106d feat: add create columns
+466ffba feat: add create tables
+7754cea feat: add drop and build database
+8d013ad Initial commit
