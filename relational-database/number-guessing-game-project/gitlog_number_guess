@@ -1,0 +1,15 @@
+0c10384 feat: add insert game score to database
+0def7f3 feat: add get user_id from database
+4fa25af feat: add loop condition till number is guessed
+464150d feat: add set secret for game
+05d9a5e feat: add check user in database
+278e928 feat: add get username
+045d2c3 feat: add set script argument and variable for postgres program
+b32ad62 feat: add set constraints
+e4090df feat: add creating columns
+e8df725 feat: add creating tables
+3438d3a feat: add connecting to database
+1b6b709 feat: add drop and create database
+ec2f29e feat: add set script argument and variable for postgres program
+d81f89f Initial commit
+
